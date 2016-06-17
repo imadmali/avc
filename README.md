@@ -1,2 +1,2 @@
-# avc
+# AVC
 Advanced Vector Calculus (AVC) notes.
